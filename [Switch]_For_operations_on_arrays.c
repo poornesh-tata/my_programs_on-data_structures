@@ -115,6 +115,8 @@ void main()
     }
  break ;  
  
+ default :
+ printf(" You have to enter your choice correctly ");
     
   }  
 }
