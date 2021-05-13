@@ -12,7 +12,7 @@ void main()
   printf("Enter your choice now :");
   scanf("%d",&choice);
   
-  If(choice <= 5 && choice >=1)
+  if(choice <= 5 && choice >=1)
   {
   printf("Enter the size of an array :");
   scanf("%d",&n);
